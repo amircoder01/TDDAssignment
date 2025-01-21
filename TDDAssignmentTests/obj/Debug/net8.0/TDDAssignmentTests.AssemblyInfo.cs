@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDDAssignmentTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43ff1bd0fcccb0daa9b9411919f1b45e0868697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ca2162af3bc03638acd84f0eda50ec52aa6c9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDDAssignmentTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDDAssignmentTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

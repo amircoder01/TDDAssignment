@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\task\\test1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\task\\test1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task3\\weatherclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\task\\task2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\task\\task2\\stringprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task2\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task2\\stringprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\task\\test1\\test1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\task\\test1\\test1\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "WeatherClient.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task3\\WeatherClient.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task3\\WeatherClient.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task3\\WeatherClient.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task3\\WeatherClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:58:04.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StringProcessorTests.cs",
               "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Task\\Task2\\StringProcessorTests.cs",
               "RelativeDocumentMoniker": "TDDAssignmentTests\\Task\\Task2\\StringProcessorTests.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StringProcessor.cs",
               "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task2\\StringProcessor.cs",
               "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task2\\StringProcessor.cs",
@@ -63,19 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalculatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Task\\Test1\\Test1\\CalculatorTests.cs",
-              "RelativeDocumentMoniker": "TDDAssignmentTests\\Task\\Test1\\Test1\\CalculatorTests.cs",
-              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Task\\Test1\\Test1\\CalculatorTests.cs",
-              "RelativeToolTip": "TDDAssignmentTests\\Task\\Test1\\Test1\\CalculatorTests.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Task\\Test1\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TDDAssignmentTests\\Task\\Test1\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Task\\Test1\\CalculatorTests.cs",
+              "RelativeToolTip": "TDDAssignmentTests\\Task\\Test1\\CalculatorTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:10:07.491Z"
+              "WhenOpened": "2025-01-21T10:10:07.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task1\\Calculator.cs",
               "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task1\\Calculator.cs",
@@ -87,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Program.cs",
               "RelativeDocumentMoniker": "TDDAssignment\\Task\\Program.cs",
