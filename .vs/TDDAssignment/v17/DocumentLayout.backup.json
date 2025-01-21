@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TDDAssignmentTests\\Test\\Test1\\CalculatorTests.cs",
               "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test1\\CalculatorTests.cs",
               "RelativeToolTip": "TDDAssignmentTests\\Test\\Test1\\CalculatorTests.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAowGkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswEkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T10:10:07.491Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "TDDAssignment\\Task\\Task1\\Calculator.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:02:04.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:02:04.71Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "TDDAssignment\\Task\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T09:25:02.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T09:25:02.731Z"
             }
           ]
         }
