@@ -8,6 +8,6 @@ namespace TDDAssignment.Task.Task3
 {
     public class WeatherClient
     {
-
+        //Test
     }
 }
