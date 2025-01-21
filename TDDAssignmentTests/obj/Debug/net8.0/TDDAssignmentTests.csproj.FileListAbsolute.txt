@@ -1,4 +1,10 @@
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\CoverletSourceRootsMapping_TDDAssignmentTests
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.csproj.AssemblyReference.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.AssemblyInfoInputs.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.AssemblyInfo.cs
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.csproj.CoreCompileInputs.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.sourcelink.json
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\testhost.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignment.deps.json
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignment.runtimeconfig.json
@@ -11,6 +17,7 @@ C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssign
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignmentTests.runtimeconfig.json
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignmentTests.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignmentTests.pdb
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -21,7 +28,9 @@ C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssign
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\NSubstitute.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -100,16 +109,12 @@ C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssign
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignment.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\TDDAssignment.pdb
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.csproj.AssemblyReference.cache
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.AssemblyInfoInputs.cache
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.AssemblyInfo.cs
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.csproj.CoreCompileInputs.cache
-C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.sourcelink.json
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssig.43E342C0.Up2Date
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\TDDAssignmentTests.dll
 C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignmentTests\obj\Debug\net8.0\refint\TDDAssignmentTests.dll
