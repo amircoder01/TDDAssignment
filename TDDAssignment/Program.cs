@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("First push to Git");
+            Console.WriteLine("");
         }
     }
 }
