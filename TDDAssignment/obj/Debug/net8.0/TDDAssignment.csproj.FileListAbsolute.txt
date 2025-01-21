@@ -1,0 +1,15 @@
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\bin\Debug\net8.0\TDDAssignment.exe
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\bin\Debug\net8.0\TDDAssignment.deps.json
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\bin\Debug\net8.0\TDDAssignment.runtimeconfig.json
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\bin\Debug\net8.0\TDDAssignment.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\bin\Debug\net8.0\TDDAssignment.pdb
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.AssemblyInfoInputs.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.AssemblyInfo.cs
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.csproj.CoreCompileInputs.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.sourcelink.json
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\refint\TDDAssignment.dll
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.pdb
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\TDDAssignment.genruntimeconfig.cache
+C:\Users\99amiqur\source\Privat\TestOchKvalisering\TDDAssignmentNewGit\TDDAssignment\obj\Debug\net8.0\ref\TDDAssignment.dll
