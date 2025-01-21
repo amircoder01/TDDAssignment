@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TDDAssignment.Task.Task3
 {
-    internal class WeatherClient
+    public class WeatherClient
     {
+
     }
 }
