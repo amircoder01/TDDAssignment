@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 
-namespace TDDAssignment.Task.Task1.Tests
+namespace TDDAssignmentTests.Task.Test.Test1
 {
     [TestClass()]
     public class CalculatorTests
