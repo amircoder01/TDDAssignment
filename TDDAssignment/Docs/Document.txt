@@ -1,0 +1,5 @@
+﻿Här är en Serie av TDD uppgifter som jag försökte att lösa. Jag hittade uppgifterna utmanande för att
+en del uppgifter var svårt och kravade att man kunna använda sig av Mockning. Jag har inte använt mig
+av Mockning tidigare och det var en utmaning att lära sig det. Jag försökte följa TDD processen och skrev
+testfall först och sedan skrev jag koden för att lösa testfallen. I allmänt behövde jag mycket hjälp av Ai
+för att kunna skriva visa tester och koden.
