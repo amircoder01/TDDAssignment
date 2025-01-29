@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\test\\test7\\objectvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\test\\test7\\objectvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task7\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task7\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task7\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task7\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestClass.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task7\\TestClass.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task7\\TestClass.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task7\\TestClass.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task7\\TestClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:03:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test7\\ObjectValidatorTests.cs",
+              "RelativeDocumentMoniker": "TDDAssignmentTests\\Test\\Test7\\ObjectValidatorTests.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test7\\ObjectValidatorTests.cs",
+              "RelativeToolTip": "TDDAssignmentTests\\Test\\Test7\\ObjectValidatorTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:55:01.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectValidator.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task7\\ObjectValidator.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task7\\ObjectValidator.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task7\\ObjectValidator.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task7\\ObjectValidator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:49:53.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
