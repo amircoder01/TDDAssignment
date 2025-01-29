@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\test\\test5\\inventorymanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\test\\test5\\inventorymanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignmenttests\\test\\test6\\bookingsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC09270-41AF-41B1-B0D3-3DCDFA9819E8}|TDDAssignmentTests\\TDDAssignmentTests.csproj|solutionrelative:tddassignmenttests\\test\\test6\\bookingsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task5\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task5\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task6\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task6\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task6\\bookingservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task6\\bookingservicefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task6\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task6\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|c:\\users\\99amiqur\\source\\privat\\testochkvalisering\\tddassignmentnewgit\\tddassignment\\task\\task6\\ibookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6EDA3B-60E4-49D1-A3FE-0C7DC53CAF8D}|TDDAssignment\\TDDAssignment.csproj|solutionrelative:tddassignment\\task\\task6\\ibookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +39,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InventoryManagerTests.cs",
-              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test5\\InventoryManagerTests.cs",
-              "RelativeDocumentMoniker": "TDDAssignmentTests\\Test\\Test5\\InventoryManagerTests.cs",
-              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test5\\InventoryManagerTests.cs",
-              "RelativeToolTip": "TDDAssignmentTests\\Test\\Test5\\InventoryManagerTests.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAmwG4AAAAJAAAAAAAAAA==",
+              "Title": "BookingSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test6\\BookingSystemTests.cs",
+              "RelativeDocumentMoniker": "TDDAssignmentTests\\Test\\Test6\\BookingSystemTests.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignmentTests\\Test\\Test6\\BookingSystemTests.cs*",
+              "RelativeToolTip": "TDDAssignmentTests\\Test\\Test6\\BookingSystemTests.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwFwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T18:29:20.176Z",
+              "WhenOpened": "2025-01-28T09:34:05.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "InventoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task5\\InventoryManager.cs",
-              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task5\\InventoryManager.cs",
-              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task5\\InventoryManager.cs",
-              "RelativeToolTip": "TDDAssignment\\Task\\Task5\\InventoryManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBcAAAAaAAAAAAAAAA==",
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\Booking.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task6\\Booking.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\Booking.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task6\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T15:06:08.867Z",
+              "WhenOpened": "2025-01-23T11:34:45.808Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\IBookingSystem.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task6\\IBookingSystem.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\IBookingSystem.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task6\\IBookingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:32:58.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingServiceFacade.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\BookingServiceFacade.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task6\\BookingServiceFacade.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\BookingServiceFacade.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task6\\BookingServiceFacade.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:27:06.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\BookingSystem.cs",
+              "RelativeDocumentMoniker": "TDDAssignment\\Task\\Task6\\BookingSystem.cs",
+              "ToolTip": "C:\\Users\\99amiqur\\source\\Privat\\TestOchKvalisering\\TDDAssignmentNewGit\\TDDAssignment\\Task\\Task6\\BookingSystem.cs",
+              "RelativeToolTip": "TDDAssignment\\Task\\Task6\\BookingSystem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:26:47.388Z"
             }
           ]
         }
